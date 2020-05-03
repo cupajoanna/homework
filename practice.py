@@ -1,2 +1,5 @@
-print("hello world")
-print("i think i have this github thing finally figured out")
+def say_hello(): 
+
+    print ("hello world")
+
+say_hello()
